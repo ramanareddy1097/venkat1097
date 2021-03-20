@@ -1,0 +1,7 @@
+x = input("enter a word related to mobile:  ")
+y = input("what do you like: ")
+z = input('you are fan of: ')
+
+print("mobiles are " + x)
+print('i like' + y)
+print("i am a fan of" + z )
